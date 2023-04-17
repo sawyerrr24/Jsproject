@@ -178,4 +178,4 @@ test()
 //global scope
 //a global scoped variable is outside any block or function 
 //it cannot overwrite block or function variables
-
+console.log("hello");
