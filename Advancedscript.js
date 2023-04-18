@@ -180,7 +180,7 @@ console.log(batman.getFullName());
 //     }
 // }
 
-// const classp1=new person('Spider','Man')
+// const classp1 = new person('Spider','Man')
 // console.log(classp1.sayMyName())
 
 // class newSuperHero extends person{
